@@ -29,3 +29,5 @@ load_snippet: extracts a contiguous snippet from a motion file (pose, translatio
 rebase_snippet_to_state_windowed: aligns a snippet to the current motion output (rotation + translation offset) to avoid jumps.
 # inspect_pipeline.py 
 Simply a log of the motion selections and switches. 
+# visualise_smpl_motion.py
+To visualise the motion.

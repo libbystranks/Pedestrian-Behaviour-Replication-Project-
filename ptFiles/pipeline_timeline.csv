@@ -1,0 +1,5 @@
+switch_at_base_frame,selected_file,selected_center_frame,neighbor_dist,fade_len,snippet_len_used,root_mode,path_mode,cooldown_frames
+20,base_motion.pt,19,inf,12,48,lock,hybrid,500
+80,base_motion.pt,79,inf,12,48,lock,hybrid,500
+140,base_motion.pt,139,inf,12,48,lock,hybrid,500
+200,base_motion.pt,199,inf,12,48,lock,hybrid,500
